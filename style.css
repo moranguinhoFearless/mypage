@@ -4,12 +4,14 @@ body {
 }
 
 
-#taytay {
+.taytay {
 
-width: 50%;
 text-align: center;
 }
 
+.taytay img{
+    width: 50%;
+}
 
 
 
