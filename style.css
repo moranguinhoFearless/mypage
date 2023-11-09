@@ -12,7 +12,7 @@ text-align: center;
     width: 30%;
 }
 
-.flower img{
+.flower {
     display: flex;
     justify-content: center;
     align-items: center;
