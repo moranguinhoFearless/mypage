@@ -10,16 +10,11 @@ text-align: center;
 }
 
 .taytay img{
-    
     width: 30%;
 }
 
 .flower {
-    display: flex;
-    justify-content: center;
-    height: 100px;
-    margin: auto;
-    display: block;
+    text-align: right;
 }
 
 
