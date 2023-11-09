@@ -13,8 +13,9 @@ text-align: center;
     width: 30%;
 }
 
-.flower {
-    text-align: right;
+.flower img {
+    margin: auto;
+    display: block;
 }
 
 
