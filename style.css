@@ -15,9 +15,7 @@ text-align: center;
 .flower img{
     display: flex;
     justify-content: center;
-    height: 100px;
-    margin: auto;
-    display: block;
+    height: 200px
    
 }
 
