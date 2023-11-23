@@ -5,9 +5,12 @@ body {
 
 
 .taytay {
-text-align: center;
 
-}
+        text-align: center;
+        
+        border: 1px solid;
+      }
+
 
 
 .taytay img{
