@@ -5,11 +5,11 @@ body {
 
 
 .taytay {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 200px;
+text-align: center;
+align-items: center;
+
 }
+
 
 .taytay img{
     width: 30%;
