@@ -9,7 +9,7 @@ body {
         text-align: center;
         
         border: 2px solid;
-        color: beige;
+        color: ;
       }
 
 
@@ -49,19 +49,19 @@ font-size: 50px;
 
 em strong {
 
-color: rgb(177, 68, 199)
+color: rgb(250, 250, 250)
 
 }
 
 
  p {
-color: rgb(243, 243, 243);
+color: rgb(184, 52, 151);
 }
 
 
 h1{
 
-color: rgb(255, 255, 255);
+color: rgb(182, 62, 230);
 }
 
 
@@ -73,6 +73,6 @@ h2 {
 
 .taytay{
 
-background-color: rgb(250, 250, 250));
+background-color: rgb(182, 85, 177));
 
 }
