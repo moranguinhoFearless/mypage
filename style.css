@@ -3,13 +3,12 @@ body {
     background-color: rgba(235, 154, 210, 0.89);
 }
 
-
+<div>
 .taytay {
 text-align: center;
 align-items: center;
-
 }
-
+</div>
 
 .taytay img{
     width: 30%;
